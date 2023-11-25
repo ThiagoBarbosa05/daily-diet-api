@@ -1,3 +1,16 @@
+<h1>Daily Diet Api</h1>
+
+<p>Application built where a user can monitor their diet by registering their meals.</p>
+
+## How to install
+
+
+clone the repository to the folder where your project will be located
+```
+$ git clone https://github.com/ThiagoBarbosa05/daily-diet-api.git
+```
+
+
 # RF
 
 - [ ] O usuário deve poder criar uma nova transação;
