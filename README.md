@@ -25,7 +25,7 @@ the application also contains test files, to run them enter the following comman
 $ npm test
 ```
 
-# Features
+## Features
 - [x] It must be possible to create a user
 - [x] It must be possible to identify the user between requests
 - [x] Deve ser possível registrar uma refeição feita, com as seguintes informações: 
