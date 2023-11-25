@@ -10,6 +10,21 @@ clone the repository to the folder where your project will be located
 $ git clone https://github.com/ThiagoBarbosa05/daily-diet-api.git
 ```
 
+After that, type the following command to install the dependencies
+```
+$ npm install
+```
+
+then enter the following command to make migrations to the database
+```
+$ npm run knex -- migrate:latest
+```
+
+the application also contains test files, to run them enter the following command
+```
+$ npm test
+```
+
 
 # RF
 
