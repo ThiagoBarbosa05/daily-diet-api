@@ -74,3 +74,5 @@ $ npm test
       
 - [x] The user can only view, edit and delete the meals he created
 
+<p align="center">made with ❤️ by Thiago Barbosa.</p>
+
