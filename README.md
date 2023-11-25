@@ -2,6 +2,24 @@
 
 <p>Application built where a user can monitor their diet by registering their meals.</p>
 
+## 🛠 Technologies
+
+The following tools were used to build the project:
+
+- [TypeScript](https://www.typescriptlang.org/) 
+- [Eslint](https://eslint.org/) 
+- [supertest](https://www.npmjs.com/package/supertest) 
+- [tsup](https://github.com/egoist/tsup) 
+- [tsx](https://www.npmjs.com/package/tsx) 
+- [sqlite](https://www.sqlite.org/index.html) 
+- [vitest](https://vitest.dev/) 
+- [dotenv](https://www.npmjs.com/package/dotenv)
+- [fastify](https://fastify.dev/)
+- [knex.js](https://knexjs.org/) 
+- [zod](https://zod.dev/) 
+
+
+
 ## How to install
 
 
