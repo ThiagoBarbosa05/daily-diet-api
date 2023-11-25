@@ -29,10 +29,10 @@ $ npm test
 - [x] It must be possible to create a user
 - [x] It must be possible to identify the user between requests
 - [x] Deve ser possível registrar uma refeição feita, com as seguintes informações:
-      * Name
-      * Description
-      * Date & time
-      * It's part of the diet
+      - Name
+      - Description
+      - Date & time
+      - It's part of the diet
 - [x] It must be possible to edit a meal, being able to change all the data above
 - [x] It should be possible to delete a meal
 - [x] It should be possible to list all of a user's meals
