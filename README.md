@@ -48,6 +48,9 @@ the application also contains test files, to run them enter the following comman
 $ npm test
 ```
 
+> [!IMPORTANT]
+> To create a meal, you must first register a user.
+
 ## Features
 - [x] It must be possible to create a user
 - [x] It must be possible to identify the user between requests
