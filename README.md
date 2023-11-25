@@ -38,6 +38,11 @@ then enter the following command to make migrations to the database
 $ npm run knex -- migrate:latest
 ```
 
+finally you can run the application with the following command
+```
+$ npm run dev
+```
+
 the application also contains test files, to run them enter the following command
 ```
 $ npm test
